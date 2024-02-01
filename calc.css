@@ -1,0 +1,66 @@
+h1{
+  color: black;
+}
+.full{
+  margin: 10px 487px;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 19px;
+  background-color: bisque;
+  
+}
+body{
+  background-color: black;
+}
+.row{
+  text-align: center;
+  margin: 8px 0;
+}
+.button{
+  cursor: pointer;
+border-radius: 6px;
+border: solid 2px black;
+padding: 20px;
+font-size: 20px
+}
+.clear{
+  cursor: pointer;
+border-radius: 6px;
+border: solid 2px black;
+padding: 5px 90px;
+
+background-color: black;
+font-size: 20px;
+color: white;
+}
+.Delete{
+  margin: 5px 0;
+  cursor: pointer;
+border-radius: 6px;
+border: solid 2px black;
+padding: 5px 85px;
+
+background-color: black;
+font-size: 20px;
+color: white;
+}
+button[name="button"]:active {
+  background-color: #ccc; /* Change to the color you want for the click effect */
+}
+/* .inp{
+  text-align: center;
+  text-align: center;
+margin: 0 500px;
+padding: 6px 25px;
+border: solid;
+
+}
+ */
+.row input{
+  width: 270px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 2px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
